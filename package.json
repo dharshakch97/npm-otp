@@ -1,0 +1,11 @@
+{
+  "name": "npmotp",
+  "version": "1.0.0",
+  "description": "Generates otp for given length",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dharshak",
+  "license": "ISC"
+}
